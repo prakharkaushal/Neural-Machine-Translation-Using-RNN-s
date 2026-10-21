@@ -1,0 +1,250 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.29815673828125
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.57729434967041
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -13.438079833984375
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.921542167663574
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.126947402954102
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "."
+            ],
+            "score": -15.555984497070312
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.687480926513672
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.888755798339844
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁on",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -16.256267547607422
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -16.33097267150879
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjYtMTAtMjFUMDk6Mzc6MDguMDM0MTY5IiwgImgiOiAiOTM0YTQ3OTk2OTVhIiwgInUiOiAicm9vdCJ9"
+}

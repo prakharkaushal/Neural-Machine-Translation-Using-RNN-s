@@ -1,0 +1,252 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.22721004486084
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.805380821228027
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.80953598022461
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.027663230895996
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.091534614562988
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.407018661499023
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.510619163513184
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.821293830871582
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -18.16030502319336
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁is",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁this",
+                "▁session",
+                "."
+            ],
+            "score": -18.297834396362305
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjYtMTAtMjFUMDk6Mzg6MTAuNzk1MjkyIiwgImgiOiAiOTM0YTQ3OTk2OTVhIiwgInUiOiAicm9vdCJ9"
+}

@@ -1,0 +1,240 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarification",
+                "ed",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁relating",
+                "▁to",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.072195053100586
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁relating",
+                "▁to",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.552220344543457
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁adopted",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.81743335723877
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁regard",
+                "ing",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -15.83753776550293
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarification",
+                "ed",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁relating",
+                "▁to",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -15.869548797607422
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁relating",
+                "▁to",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -15.938281059265137
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁taken",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -16.535764694213867
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁regard",
+                "ing",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -16.728899002075195
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁regard",
+                "ing",
+                "▁the",
+                "▁conference",
+                "▁conference",
+                "."
+            ],
+            "score": -17.44633674621582
+        },
+        {
+            "hypothesis": [
+                "▁clarification",
+                "▁has",
+                "▁also",
+                "▁been",
+                "▁given",
+                "▁to",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁regard",
+                "ing",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -19.29820442199707
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjYtMTAtMjFUMDk6MzU6MzMuMjIxMDUzIiwgImgiOiAiOTM0YTQ3OTk2OTVhIiwgInUiOiAicm9vdCJ9"
+}

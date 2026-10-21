@@ -1,0 +1,247 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁was",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -21.15953826904297
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁is",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -21.22522735595703
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁is",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -21.558008193969727
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁was",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -28.196245193481445
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁is",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -28.256084442138672
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁was",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -29.309511184692383
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁is",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -29.35799217224121
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁was",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁year",
+                "."
+            ],
+            "score": -35.55370330810547
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁was",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -35.993404388427734
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁it",
+                "▁is",
+                "▁a",
+                "▁result",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -36.020652770996094
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjYtMTAtMjFUMDk6MjI6MjcuOTUzNTcxIiwgImgiOiAiOTM0YTQ3OTk2OTVhIiwgInUiOiAicm9vdCJ9"
+}

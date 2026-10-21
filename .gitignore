@@ -1,0 +1,25 @@
+# Training artifacts: model.bin (~250 MB) and model.bin.optim (~500 MB) exceed GitHub's 100 MB limit
+model.bin
+model.bin.optim
+student/runs/
+*.zip
+
+# Course data and SentencePiece assets come from the official starter zip (the corpus is LDC-licensed)
+student/zh_en_data/
+student/src.model
+student/src.vocab
+student/tgt.model
+student/tgt.vocab
+student/vocab.json
+
+# LaTeX build files (writeup/main.pdf is kept)
+writeup/*.aux
+writeup/*.fdb_latexmk
+writeup/*.fls
+writeup/*.log
+writeup/*.out
+writeup/*.synctex.gz
+writeup/*.xdv
+
+__pycache__/
+.ipynb_checkpoints/

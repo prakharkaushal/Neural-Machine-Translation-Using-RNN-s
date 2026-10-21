@@ -1,0 +1,12 @@
+{
+  "test_bleu": 20.24,
+  "best_dev_perplexity": 11.49,
+  "best_dev_iteration": 18600,
+  "iterations": 19000,
+  "lr_decays": 4,
+  "stop_reason": "early stopping",
+  "train_minutes": 50.2,
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu128",
+  "quick_run": false
+}
